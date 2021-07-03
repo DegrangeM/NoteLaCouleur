@@ -4,6 +4,6 @@ Note La Couleur est une série de 6 fiches autocorrectives pour entraîner les �
 
 Ce dépot contient ces fiches, mais réorganisées afin de faciliter une vidéo projection en classe (2 énoncés côté à côte, puis un énoncé et sa correction côte à côte, puis l'autre énoncé et sa correction côte à côte).
 
-Le fichier Python permettant de générer ces fiches réorganisées à partir des fiches fiches originalles est également inclus. Il nécessite le package `PyPDF4`, pour l'exécutez, glissez déposez les fiches originales sur le fichier python.
+Le fichier Python `videoprojection.py` permettant de générer ces fiches réorganisées à partir des fiches fiches originalles est également inclus. Il nécessite le package `PyPDF4`, pour l'exécutez, glissez déposez les fiches originales sur le fichier python.
 
-Ce dépot contient également un fichier blocs.ods et un fichier blocs.pdf qui récapitulent les blocs utilisés dans les trois première séries.
+Ce dépot contient également un fichier `blocs.ods` et un fichier `blocs.pdf` qui récapitulent les blocs utilisés dans les trois première séries.
